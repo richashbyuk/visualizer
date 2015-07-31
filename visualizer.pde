@@ -16,7 +16,7 @@ void setup()
   colorMode(HSB, 360, 100, 100, 255);
   background(333);
   minim = new Minim(this);
-  player = minim.loadFile("bach_short.mp3", 1024);
+  player = minim.loadFile("go.mp3", 1024);
   player.loop();
 }
  
