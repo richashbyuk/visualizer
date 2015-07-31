@@ -4,7 +4,7 @@ Minim minim;
 AudioPlayer player;
  
 int _waveH = 500;  
-int _fluctuationDepth = 50; 
+int _fluctuationDepth = 200; 
 float _noiseSeed;
 int _alpha = 1;
 float _colorTransion = 2.0;
